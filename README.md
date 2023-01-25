@@ -8,10 +8,10 @@ https://pokeapi.co/docs/v2
 
 La aplicación debe contener las siguientes funcionalidades:
 
-1. Listado principal de pokemon's con paginacion
-1.1. En cada card debe mostrar los siguientes datos: Nombre, imagen, tipo, peso y altura.
+1. Pagina con el listado principal de pokemon's con paginacion
+    1. En cada card debe mostrar los siguientes datos: Nombre, imagen, tipo, peso y altura.
 2. Detalle de pokemon
-   2.1. En el detalle de pokemon se debe mostrar los siguientes datos: Nombre, imagen, tipo, peso, altura, habilidades, movimientos y evoluciones.
+    1. En el detalle de pokemon se debe mostrar los siguientes datos: Nombre, imagen, tipo, peso, altura, habilidades, movimientos y evoluciones.
 
 ## Requerimientos
 
