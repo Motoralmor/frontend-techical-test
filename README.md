@@ -21,7 +21,7 @@ La aplicación debe contener las siguientes funcionalidades:
 4. La aplicación debe ser desplegada en un servidor gratuito (Vercel, Netlify, etc)
 5. La evidencia de la prueba debe ser enviada por correo electrónico a
    talento@kamaytech.com
-Incluyendo el link del repositorio y el link del despliegue.
+Incluyendo los nombres del candidato,  link del repositorio y link del despliegue.
 
 ## Bonus
 
