@@ -25,6 +25,7 @@ Incluyendo los nombres del candidato,  link del repositorio y link del despliegu
 
 ## Bonus
 
-1. Uso de Rect Query (https://tanstack.com/query/latest/docs/react/overview)
-2. Uso de NextJS (https://nextjs.org/)
-3. Buscador de pokemon's
+1. Buscador de pokemon's
+2. Uso de Rect Query (https://tanstack.com/query/latest/docs/react/overview)
+3. Uso de NextJS (https://nextjs.org/)
+
