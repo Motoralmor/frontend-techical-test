@@ -1,18 +1,20 @@
 
-# Prueba Técnica - Desarrollador Front-end
+# 👩‍💻 Prueba Técnica - Desarrollador Front-end
 
 El objetivo de esta prueba técnica es desarrollar una aplicación web utilizando React y TypeScript que interactúe con la API JSONPlaceholder. La aplicación debe permitir a los usuarios ver, crear, actualizar y eliminar publicaciones, así como agregar comentarios a las publicaciones.
 Además, la aplicación debe tener un diseño atractivo y responsivo las tecnologías que se consideren pertinentes.
 
+## 🚀 Duracion 
+A partir de la recepcion de este instructivo tienes **un dia (24 horas)** para concluir esta prueba.
 
 
-## Desarrollo de Aplicación Web con JSONPlaceholder API
+## 🔗 Desarrollo de Aplicación Web con JSONPlaceholder API
 
  - [API Docs - JSONPlaceholder](https://jsonplaceholder.typicode.com/guide/)
 
 
 
-## Requerimientos:
+## 🛠 Requerimientos:
 
 **1 Ubicación y Despliegue del proyecto:**
 -	La aplicación debe estar alojada en un repositorio de github publico
@@ -47,7 +49,7 @@ El candidato debe entregar el código fuente de la aplicación junto con instruc
 Incluir los nombres del candidato, link del repositorio y link del despliegue.
 
 
-## Criterios de Evaluación
+## ⚡️Criterios de Evaluación
 
 
 **Funcionalidad:** ¿La aplicación cumple con todos los requisitos funcionales especificados?.
@@ -63,4 +65,7 @@ Incluir los nombres del candidato, link del repositorio y link del despliegue.
 **Extras:** ¿Se implementan características adicionales para mejorar la experiencia del usuario?
 
 ![Logo](https://kamaycloud--us-east-1.s3.amazonaws.com/kamaytech/recursos/logo/PNG/Kamaytech_Primary_Logo.png)
+
+
+# Buena suerte! 👋
 
