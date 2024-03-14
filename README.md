@@ -16,18 +16,23 @@ Además, la aplicación debe tener un diseño atractivo y responsivo las tecnolo
 
 **1 Ubicación y Despliegue del proyecto:**
 -	La aplicación debe estar alojada en un repositorio de github publico
--	Debe ser desplegada en un servidor gratuito (Vercel, Netlify, etc)
+-	Debe ser desplegada en un servidor gratuito (Vercel, Netlify, etc).
+
 **2	Integración con API:**
 -	Utilizar la API JSONPlaceholder para realizar operaciones CRUD en publicaciones y comentarios.
 -	Implementar funcionalidad para crear, leer, actualizar y eliminar publicaciones y comentarios.
+
 **3	Interfaz de Usuario:**
 -	Mostrar una lista de publicaciones obtenidas de la API JSONPlaceholder.
 -	Permitir al usuario hacer clic en una publicación para mostrar los comentarios de la publicación seleccionada.
 -	Dar la posibilidad al usuario de crear nuevas publicaciones.
+
 **4	Estilos:**
 -	Implementar un diseño responsivo que se vea bien en dispositivos de diferentes tamaños.
+
 **5	Componentes de UI:**
 -	Emplear componentes como botones, formularios, modales, etc., para mejorar la experiencia del usuario.
+
 **6	Funcionalidad Adicional (Opcional):**
 -	Agregar validación de formularios para la creación y edición de publicaciones.
 -	Incluir animaciones o transiciones suaves para mejorar la experiencia del usuario.
